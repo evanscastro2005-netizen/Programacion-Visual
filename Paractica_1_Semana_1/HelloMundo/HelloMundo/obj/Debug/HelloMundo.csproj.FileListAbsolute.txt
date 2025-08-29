@@ -1,0 +1,11 @@
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\bin\Debug\HelloMundo.exe.config
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\bin\Debug\HelloMundo.exe
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\bin\Debug\HelloMundo.pdb
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\obj\Debug\HelloMundo.csproj.AssemblyReference.cache
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\obj\Debug\HelloMundo.Form1.resources
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\obj\Debug\HelloMundo.Properties.Resources.resources
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\obj\Debug\HelloMundo.csproj.GenerateResource.cache
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\obj\Debug\HelloMundo.csproj.CoreCompileInputs.cache
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\obj\Debug\HelloMundo.exe
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\obj\Debug\HelloMundo.pdb
+C:\Users\Evans Castro\source\repos\HelloMundo\HelloMundo\obj\Debug\HelloMundo.exe.config

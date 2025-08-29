@@ -1,0 +1,33 @@
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.exe.config
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.exe
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.pdb
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator_Sixseven.Form1.resources
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator_Sixseven.Properties.Resources.resources
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.pdb
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe.config
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.exe.config
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.exe
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.pdb
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.AssemblyReference.cache
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe.config
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\obj\Debug\Calculator_Sixseven.Form1.resources
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\obj\Debug\Calculator_Sixseven.Properties.Resources.resources
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe
+D:\Documentos\Visual Studio 2022\Semana 2\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.pdb
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.exe.config
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.exe
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.pdb
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.AssemblyReference.cache
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe.config
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\obj\Debug\Calculator_Sixseven.Form1.resources
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\obj\Debug\Calculator_Sixseven.Properties.Resources.resources
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe
+D:\Documentos\Visual Studio 2022\Semana 2\Practica 2\Semana 2 tarea\Calculadora\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.pdb

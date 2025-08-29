@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\Visual Studio 2022\\Semana 2\\Practica 2\\Semana 2 tarea\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F22E078-1D31-45AC-A740-9912B56E5148}|Calculator-Sixseven\\Calculator-Sixseven.csproj|d:\\documentos\\visual studio 2022\\semana 2\\practica 2\\semana 2 tarea\\calculadora\\calculator-sixseven\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F22E078-1D31-45AC-A740-9912B56E5148}|Calculator-Sixseven\\Calculator-Sixseven.csproj|solutionrelative:calculator-sixseven\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F22E078-1D31-45AC-A740-9912B56E5148}|Calculator-Sixseven\\Calculator-Sixseven.csproj|D:\\Documentos\\Visual Studio 2022\\Semana 2\\Practica 2\\Semana 2 tarea\\Calculadora\\calculator-sixseven\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F22E078-1D31-45AC-A740-9912B56E5148}|Calculator-Sixseven\\Calculator-Sixseven.csproj|solutionrelative:calculator-sixseven\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\Visual Studio 2022\\Semana 2\\Practica 2\\Semana 2 tarea\\Calculadora\\Calculator-Sixseven\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator-Sixseven\\Form1.cs",
+              "ToolTip": "D:\\Documentos\\Visual Studio 2022\\Semana 2\\Practica 2\\Semana 2 tarea\\Calculadora\\Calculator-Sixseven\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Calculator-Sixseven\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:14:31.08Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Documentos\\Visual Studio 2022\\Semana 2\\Practica 2\\Semana 2 tarea\\Calculadora\\Calculator-Sixseven\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator-Sixseven\\Form1.cs",
+              "ToolTip": "D:\\Documentos\\Visual Studio 2022\\Semana 2\\Practica 2\\Semana 2 tarea\\Calculadora\\Calculator-Sixseven\\Form1.cs",
+              "RelativeToolTip": "Calculator-Sixseven\\Form1.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAuwDIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:22:35.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
