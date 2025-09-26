@@ -1,0 +1,33 @@
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe.config
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.pdb
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Form1.resources
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.pdb
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe.config
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe.config
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.pdb
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.AssemblyReference.cache
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe.config
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Form1.resources
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Properties.Resources.resources
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.GenerateResource.cache
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe
+C:\Users\Evans Castro\Desktop\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.pdb
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe.config
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.pdb
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.AssemblyReference.cache
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe.config
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Form1.resources
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Properties.Resources.resources
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.GenerateResource.cache
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.CoreCompileInputs.cache
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe
+D:\Documentos\tareasproyectosvisual\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.pdb

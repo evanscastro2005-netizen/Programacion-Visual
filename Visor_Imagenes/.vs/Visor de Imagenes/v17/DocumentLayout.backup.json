@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\tareasproyectosvisual\\Visor de Imagenes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0946A3F-5970-4C21-B27B-F3E9699C5A8D}|Visor de Imagenes\\Visor de Imagenes.csproj|d:\\documentos\\tareasproyectosvisual\\visor de imagenes\\visor de imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0946A3F-5970-4C21-B27B-F3E9699C5A8D}|Visor de Imagenes\\Visor de Imagenes.csproj|solutionrelative:visor de imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0946A3F-5970-4C21-B27B-F3E9699C5A8D}|Visor de Imagenes\\Visor de Imagenes.csproj|D:\\Documentos\\tareasproyectosvisual\\Visor de Imagenes\\Visor de Imagenes\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0946A3F-5970-4C21-B27B-F3E9699C5A8D}|Visor de Imagenes\\Visor de Imagenes.csproj|solutionrelative:Visor de Imagenes\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\tareasproyectosvisual\\Visor de Imagenes\\Visor de Imagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "Visor de Imagenes\\Form1.cs",
+              "ToolTip": "D:\\Documentos\\tareasproyectosvisual\\Visor de Imagenes\\Visor de Imagenes\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Visor de Imagenes\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:31:38.653Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Documentos\\tareasproyectosvisual\\Visor de Imagenes\\Visor de Imagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "Visor de Imagenes\\Form1.cs",
+              "ToolTip": "D:\\Documentos\\tareasproyectosvisual\\Visor de Imagenes\\Visor de Imagenes\\Form1.cs*",
+              "RelativeToolTip": "Visor de Imagenes\\Form1.cs*",
+              "ViewState": "AgIAANQBAAAAAAAAAAASwOUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:58:28.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
